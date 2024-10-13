@@ -22,7 +22,7 @@
 | Using a session/query_id                                       |    ✅     |
 | Binding a proxy to a session/query_id                          |    ✅     |
 
-### [How to add query id](https://github.com/Freddywhest/RockyRabbitBot/blob/main/AddQueryId.md)
+### [How to add query id](https://github.com/skhassandx/memefiauto.git)
 
 ## [Settings]
 
@@ -55,7 +55,7 @@
 
 ## Installation
 
-You can download [**Repository**](https://github.com/Savanop121/memefisavan.git) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/skhassandx/memefiauto.git) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
 ~ >>> git clone https://github.com/FreddyWhest/MemeFiBot-New.git
