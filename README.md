@@ -59,42 +59,42 @@ You can download [**Repository**](https://github.com/skhassandx/memefiauto.git) 
 
 ```shell
 ~ >>> git clone https://github.com/skhassandx/memefiauto.git
-~ >>> cd MemeFiBot-New
+~ >>> cd memefiauto
 
 #Linux and MocOS
-~/MemeFiBot-New >>> chmod +x check_node.sh
-~/MemeFiBot-New >>> ./check_node.sh
+~/memefiauto >>> chmod +x check_node.sh
+~/memefiauto >>> ./check_node.sh
 
 OR
 
-~/MemeFiBot-New >>> npm install
-~/MemeFiBot-New >>> cp .env-example .env
-~/MemeFiBot-New >>> nano .env # Here you must specify your API_ID and API_HASH , the rest is taken by default
-~/MemeFiBot-New >>> node index.js
+~/memefiauto >>> npm install
+~/memefiauto >>> cp .env-example .env
+~/memefiauto >>> nano .env # Here you must specify your API_ID and API_HASH , the rest is taken by default
+~/memefiauto >>> node index.js
 
 #Windows
-1. Double click on INSTALL.bat in MemeFiBot-New directory to install the dependencies
-2. Double click on START.bat in MemeFiBot-New directory to start the bot
+1. Double click on INSTALL.bat in memefiauto directory to install the dependencies
+2. Double click on START.bat in memefiauto directory to start the bot
 
 OR
 
-~/MemeFiBot-New >>> npm install
-~/MemeFiBot-New >>> cp .env-example .env
-~/MemeFiBot-New >>> # Specify your API_ID and API_HASH, the rest is taken by default
-~/MemeFiBot-New >>> node index.js
+~/memefiauto >>> npm install
+~/memefiauto >>> cp .env-example .env
+~/memefiauto >>> # Specify your API_ID and API_HASH, the rest is taken by default
+~/memefiauto >>> node index.js
 ```
 
 Also for quick launch you can use arguments, for example:
 
 ```shell
-~/MemeFiBot-New >>> node index.js --action=1
+~/memefiauto >>> node index.js --action=1
 
 OR
 
-~/MemeFiBot-New >>> node index.js --action=2 # For session
+~/memefiauto >>> node index.js --action=2 # For session
 OR
 
-~/MemeFiBot-New >>> node index.js --action=3 # For query id
+~/memefiauto >>> node index.js --action=3 # For query id
 
 #1 - Create session
 #2 - Run clicker
