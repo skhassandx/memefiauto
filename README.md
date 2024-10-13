@@ -58,7 +58,7 @@
 You can download [**Repository**](https://github.com/skhassandx/memefiauto.git) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/FreddyWhest/MemeFiBot-New.git
+~ >>> git clone https://github.com/skhassandx/memefiauto.git
 ~ >>> cd MemeFiBot-New
 
 #Linux and MocOS
